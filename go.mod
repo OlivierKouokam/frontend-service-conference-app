@@ -1,5 +1,5 @@
 module github.com/salaboy/platforms-on-k8s/conference-application/frontend-go
-
+//test actions
 go 1.19
 
 require (
