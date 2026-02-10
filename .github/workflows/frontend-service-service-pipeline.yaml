@@ -4,8 +4,6 @@ env:
 
 on:
   push:
-    paths:
-      - 'frontend-go/**'
     branches: ['main']
 
 jobs:
